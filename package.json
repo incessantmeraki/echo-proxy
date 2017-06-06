@@ -1,0 +1,8 @@
+{
+  "name": "echo-proxy",
+  "version": "1.0.0",
+  "description": "simple echo server proxy",
+  "main": "index.js",
+  "author": "Ashwin Kandel",
+  "license": "MIT"
+}
